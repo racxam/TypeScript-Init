@@ -23,3 +23,6 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+
+To Start the project use this command for typescript:-  cds-ts watch
